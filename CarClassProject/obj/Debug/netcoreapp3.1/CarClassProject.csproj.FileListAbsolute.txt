@@ -1,0 +1,14 @@
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.exe
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.deps.json
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.runtimeconfig.json
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.runtimeconfig.dev.json
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.dll
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\bin\Debug\netcoreapp3.1\CarClassProject.pdb
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.csproj.AssemblyReference.cache
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.AssemblyInfoInputs.cache
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.AssemblyInfo.cs
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.csproj.CoreCompileInputs.cache
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.dll
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.pdb
+C:\Users\David\Repos\CSharp27\CarClassProject\CarClassProject\obj\Debug\netcoreapp3.1\CarClassProject.genruntimeconfig.cache
